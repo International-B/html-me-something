@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(0, 0, 255, 0.7);
+  }
+  
+  h1 {
+    color: rgb(177, 177, 177);
+    text-align: left;
+  }
+  
+  article {
+    font-family: verdana;
+    font-size: 14px;
+  }
+  title{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 16px;
+  }
+
+  
