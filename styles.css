@@ -1,5 +1,6 @@
 body {
     background-color: rgba(0, 0, 255, 0.7);
+    margin-bottom: 5px
   }
   
   h1 {
@@ -10,10 +11,12 @@ body {
   article {
     font-family: verdana;
     font-size: 14px;
+    padding: 10px;
   }
-  title{
-      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-      font-size: 16px;
+
+  title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
   }
 
   
